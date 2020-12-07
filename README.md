@@ -3,6 +3,8 @@ This is a basic App to manage simple Notes on the web using Javascript Technolog
 This app can:
 - create/read/update/delete Notes
 - Allows a user to do log in and save his personal notes
+- https://github.com/FaztTech/nodejs-notes-app
+- https://github.com/FaztMAM/nodejs-notes-app
 
 # Screenshot
 ![](docs/tasks.png)
